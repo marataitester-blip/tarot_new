@@ -1,0 +1,338 @@
+{
+  "repositories": {
+    "date": "2026-10-12",
+    "repos": [
+      {
+        "repo": "Living-Tarot",
+        "tree": "4eb1a4618551e94e059b9c79309b9d25501d7935"
+      },
+      {
+        "repo": "tarot_new",
+        "tree": "98782476b60f30155f279a8b949188a270dbbb77"
+      },
+      {
+        "repo": "tarot",
+        "tree": "be4fa011f1a87135cdd61f24253226e219f968be"
+      },
+      {
+        "repo": "enciklopedia-tarot",
+        "tree": "f76072615d8883f04e08d06eba9908f894714674"
+      },
+      {
+        "repo": "astral-hero-enciklop",
+        "tree": "12518f16dbe366afcacfed8f7dc865d529194406"
+      },
+      {
+        "repo": "MIRMAG.AURA",
+        "tree": "d045bdd482c4e289c3d7f7d41e602e869b507e14"
+      },
+      {
+        "repo": "MIRMAG-aura",
+        "tree": "f4482d2624a8d07c68d819485bd4c11385b68602"
+      },
+      {
+        "repo": "AURA-zorki",
+        "tree": "4c4c21c77a51e28fcb5185d844e293eaecb6558f"
+      },
+      {
+        "repo": "SUPER_VISION_TAROT",
+        "tree": "03150020e2757c68e30177e44bf79624843bfbb1"
+      }
+    ],
+    "history": [
+      {
+        "repo": "tarot_new",
+        "path": "final_deck.json",
+        "commits": [
+          {
+            "sha": "4f13f0fa90ef7fcdd91a284ac6e75acee969666b",
+            "date": "2026-03-04T07:55:27Z",
+            "message": "Add files via upload"
+          }
+        ]
+      },
+      {
+        "repo": "Living-Tarot",
+        "path": "src/constants.ts",
+        "commits": [
+          {
+            "sha": "bced9d782917fb0628498afa49779c2da0760b59",
+            "date": "2026-03-06T11:47:44Z",
+            "message": "Create constants.ts"
+          }
+        ]
+      },
+      {
+        "repo": "Living-Tarot",
+        "path": "src/tarotData.ts",
+        "commits": [
+          {
+            "sha": "2a819d9def7dfcb57cb3c89b88e6dc2f760191d3",
+            "date": "2026-06-17T09:40:11Z",
+            "message": "Update import path for Card type in tarotData.ts"
+          },
+          {
+            "sha": "4d06aeebb262b293d5a6463b7b2a89c3528bdf9c",
+            "date": "2026-04-10T11:38:11Z",
+            "message": "Update tarotData.ts"
+          },
+          {
+            "sha": "d8e8b31b6824999ec2eb636720ffc0a0142ed4c2",
+            "date": "2026-03-27T10:21:00Z",
+            "message": "Update tarotData.ts"
+          }
+        ]
+      },
+      {
+        "repo": "MIRMAG.AURA",
+        "path": "data/tarotData.ts",
+        "commits": [
+          {
+            "sha": "6a08f349c44806c18d20d5a656a5c75307ae8858",
+            "date": "2025-12-12T09:07:18Z",
+            "message": "Update tarotData.ts"
+          },
+          {
+            "sha": "6a92930ba68c6d6c08712583a08db74d077913d8",
+            "date": "2025-12-12T08:49:33Z",
+            "message": "Update tarotData.ts"
+          },
+          {
+            "sha": "86831838e35a919978658b6b7e5610f7839e78bb",
+            "date": "2025-12-12T08:05:47Z",
+            "message": "Update tarotData.ts"
+          }
+        ]
+      },
+      {
+        "repo": "astral-hero-enciklop",
+        "path": "index.html",
+        "commits": [
+          {
+            "sha": "12518f16dbe366afcacfed8f7dc865d529194406",
+            "date": "2025-11-08T11:42:23Z",
+            "message": "Add files via upload"
+          }
+        ]
+      },
+      {
+        "repo": "enciklopedia-tarot",
+        "path": "index.html",
+        "commits": [
+          {
+            "sha": "f76072615d8883f04e08d06eba9908f894714674",
+            "date": "2025-11-17T10:31:53Z",
+            "message": "feat: Optimize card image loading\n\nImplement eager loading for initial images and async decoding for all to improve page performance. This ensures cards visible on load render quickly, while others load efficiently as needed."
+          },
+          {
+            "sha": "f2a0007307098620229b9bd05eb681afeaa25a46",
+            "date": "2025-11-16T16:24:06Z",
+            "message": "fix: Improve modal description readability\n\nIncrease font size for paragraphs within the modal description to enhance readability for users."
+          },
+          {
+            "sha": "ef75f7657c3795f882b1836c6c3dd3d475da35f5",
+            "date": "2025-11-16T15:37:58Z",
+            "message": "feat: Add PWA install prompt to homepage\n\nIntroduces a new modal to guide users on how to add the Astral Hero Tarot Encyclopedia to their home screen, improving the Progressive Web App experience."
+          }
+        ]
+      }
+    ]
+  },
+  "sources": {
+    "E": {
+      "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx",
+      "role": "Подробная Энциклопедия; основной кандидат авторского смыслового слоя"
+    },
+    "E2": {
+      "url": "https://github.com/marataitester-blip/enciklopedia-tarot/blob/f76072615d8883f04e08d06eba9908f894714674/index.html",
+      "role": "Отдельная Энциклопедия с теми же ключевыми авторскими отличиями"
+    },
+    "OLD": {
+      "url": "https://github.com/marataitester-blip/astral-hero-enciklop/blob/12518f16dbe366afcacfed8f7dc865d529194406/index.html",
+      "role": "Ранняя Энциклопедия; альтернативные и классические трактовки"
+    },
+    "AURA": {
+      "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts",
+      "role": "Авторские краткие трактовки автономного Aura; совпадение не является независимым авторским свидетельством"
+    },
+    "AURA_OLD": {
+      "url": "https://github.com/marataitester-blip/MIRMAG-aura/blob/f4482d2624a8d07c68d819485bd4c11385b68602/tarotData.ts",
+      "role": "Другой вариант Aura; Герой-подвиг и Белая карта-молчание"
+    },
+    "SUPER": {
+      "url": "https://github.com/marataitester-blip/SUPER_VISION_TAROT/blob/03150020e2757c68e30177e44bf79624843bfbb1/src/tarotData.ts",
+      "role": "Повторение авторского слоя Aura в другом проекте"
+    },
+    "JSON": {
+      "url": "https://github.com/marataitester-blip/tarot_new/blob/98782476b60f30155f279a8b949188a270dbbb77/final_deck.json",
+      "role": "80 ID и мультимедиа; большинство long описывает классический Уайт"
+    },
+    "CONST": {
+      "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/constants.ts",
+      "role": "Справочник Оракула; близок к final_deck.json"
+    },
+    "DATA": {
+      "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/tarotData.ts",
+      "role": "80 normalizedName; авторские description вместе с частично классическими keywords"
+    },
+    "ZORKI": {
+      "url": "https://github.com/marataitester-blip/AURA-zorki/blob/4c4c21c77a51e28fcb5185d844e293eaecb6558f/tarot_db.js",
+      "role": "Ироничный справочник; нельзя считать его стилевую подачу каноном"
+    },
+    "TRIPLET": {
+      "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Triplet.tsx",
+      "role": "Отдельная выжимка Энциклопедии для синтеза"
+    },
+    "VISION": {
+      "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/services/visionButler.ts",
+      "role": "Фото и список допустимых названий; возвращает позиции и имена"
+    },
+    "IDENTIFY": {
+      "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/api/identify-card.ts",
+      "role": "Распознавание одной карты без передачи полного справочника значений"
+    },
+    "PSI": {
+      "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/services/psiTarotService.ts",
+      "role": "Запрос к интерпретатору с именами, позициями и вопросом"
+    },
+    "API": {
+      "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/api/analyze.js",
+      "role": "Сервер задаёт личность; удаляет клиентские system messages"
+    },
+    "WRAPPER": {
+      "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/AuraScanner.tsx",
+      "role": "iframe на mirmag-aura-4xd5.vercel.app; версия размещённого приложения не подтверждена"
+    },
+    "RWS": {
+      "url": "https://sacred-texts.com/tarot/pkt/index.htm",
+      "role": "А. Э. Уэйт, The Pictorial Key to the Tarot; текст и архивные репродукции рисунков Памелы Колман Смит"
+    },
+    "MARAT_2026_10_12": {
+      "source_id": "MARAT_2026_10_12",
+      "type": "author_clarification",
+      "author": "Марат",
+      "date": "2026-10-12",
+      "location": "Текущий диалог: авторское вступление, поправки по картам и окончательное согласование",
+      "role": "Приоритетный смысловой источник; изображение — основа фактической сцены"
+    }
+  },
+  "classification_counts": {
+    "A": 60,
+    "B": 8,
+    "C": 10,
+    "D": 2
+  },
+  "retrieved_source_files": [
+    {
+      "path": "sources/tarot_new/final_deck.json",
+      "sha256": "981d97414635414fb1454904d1b216fa1f713404bf8f82d1f174fc88bb73e424"
+    },
+    {
+      "path": "sources/astral-hero-enciklop/index.html",
+      "sha256": "c0b5c3422c917ef2ce7f945e1e5825ab2e7716103f73929ee229c7f8952f11eb"
+    },
+    {
+      "path": "sources/MIRMAG.AURA/App.tsx",
+      "sha256": "261167ba7b4f3a6a731074414aa4eb1c505c61871bde2624bcf0c42221b8b3f5"
+    },
+    {
+      "path": "sources/enciklopedia-tarot/index.html",
+      "sha256": "39c875b2fe5d25c4d5ceb1b1fa43c5afd4621eeff7b198f0c24b57f0aad1ffa3"
+    },
+    {
+      "path": "sources/MIRMAG-aura/tarotData.ts",
+      "sha256": "b8f531315c3589a1201d62fc8f4cbf87f5647e1c3fa1d2eaafbd5a8c298ea3db"
+    },
+    {
+      "path": "sources/MIRMAG-aura/geminiService.ts",
+      "sha256": "dc57a461935333cf26aa92aeb6f5c78445c0f205dfecbb505a4ed63a6a1fb1ed"
+    },
+    {
+      "path": "sources/AURA-zorki/tarot_db.js",
+      "sha256": "1ab95ac232fa01ef48f25448059779408d7854248abb8bc0e355532901e600d7"
+    },
+    {
+      "path": "sources/AURA-zorki/app.js",
+      "sha256": "b6872524c9f33462ac83a5c88acba1fe1784daf36a10c698952e8e1b5867b8d4"
+    },
+    {
+      "path": "sources/SUPER_VISION_TAROT/src/tarotData.ts",
+      "sha256": "6edcb974e5d9d5d2550a0454d5dfb97d5227e4c945fcc551d0cc27ae7d35d5e8"
+    },
+    {
+      "path": "sources/SUPER_VISION_TAROT/src/AuraScannerHub.tsx",
+      "sha256": "df0e9cdbd095a0f31c19303390c398ccea253f0ee2a6e0a21963799c8ef3333a"
+    },
+    {
+      "path": "sources/Living-Tarot/src/AstralHeroDeck.tsx",
+      "sha256": "3d342b1659fe71b70c766bb000c3225b64cc5af1bd0b2316c849e2c6286da3b3"
+    },
+    {
+      "path": "sources/Living-Tarot/src/constants.ts",
+      "sha256": "01f9afec8e1a4f72ad39767f8b4b0be44a4800b365f2d779bc91c8d3e78bdc52"
+    },
+    {
+      "path": "sources/Living-Tarot/src/Triplet.tsx",
+      "sha256": "beb04163caabafd29f15294f4fb20a116bf57cfdd46042e7903e7be3e0368e5c"
+    },
+    {
+      "path": "sources/Living-Tarot/src/Oracle.tsx",
+      "sha256": "9567a960df0f2219c57185fac4620cc4d3415ac6bca7d5dbc8d4d4f103846921"
+    },
+    {
+      "path": "sources/Living-Tarot/src/tarotData.ts",
+      "sha256": "22f51d761bfb599c2d81dd41beb82c366dfe10a8ec5f2b69faec8dbd91323ad4"
+    },
+    {
+      "path": "sources/Living-Tarot/src/AuraScanner.tsx",
+      "sha256": "c096346193fd2d8f9233f75964315cb9617fa6824043889af5627c5cd1f94831"
+    },
+    {
+      "path": "sources/Living-Tarot/src/AdvancedSpreads.tsx",
+      "sha256": "ffb0a0a1a3961d0dddb5fc8b1ed535f3c7897e219437ecc41c7ca6a35bc8b360"
+    },
+    {
+      "path": "sources/Living-Tarot/src/Encyclopedia.tsx",
+      "sha256": "2d7939629b7e43bc6e7c0be2af88f687f37ff3dbcf0927b8ca4d1b6fcc7cd50b"
+    },
+    {
+      "path": "sources/Living-Tarot/src/AuraScannerHub.tsx",
+      "sha256": "d2eb7cdf17b7f29edfb7f0c5f90b9650511767e868a12b1c4268a378a9f16aee"
+    },
+    {
+      "path": "sources/Living-Tarot/api/analyze.js",
+      "sha256": "f4a1ddec422a74b79252a9a23174f6b6f8d413bcf79ad402ae580425a5008e89"
+    },
+    {
+      "path": "sources/Living-Tarot/api/analyze-mirror.ts",
+      "sha256": "3050b7b09c0398df6682ab124176a5b44feddededcc015f734ff266f5268b0b3"
+    },
+    {
+      "path": "sources/Living-Tarot/src/services/psiTarotService.ts",
+      "sha256": "b55f826429d331381b5e792fbb36f9837ee0e2cd87dec5d171d27881feca8f24"
+    },
+    {
+      "path": "sources/Living-Tarot/src/services/visionButler.ts",
+      "sha256": "ba7e60767e015f04961ed3ef32df822b392d00d844d99099696ca8dc0b158d47"
+    },
+    {
+      "path": "sources/MIRMAG.AURA/api/identify-card.ts",
+      "sha256": "6a3ee126a90af89a40c5f2a5c8bb3fdc115aa5fa959eeb05b71732a693c63735"
+    },
+    {
+      "path": "sources/MIRMAG.AURA/data/tarotData.ts",
+      "sha256": "52b0db449a6b112ed97f1ea5eb3b54b8f4ed073af8a344512d8aa1c03db05667"
+    }
+  ],
+  "canon_version": "1.0.0",
+  "canon_status": "author_approved",
+  "author_approval_date": "2026-10-12",
+  "author_source": {
+    "source_id": "MARAT_2026_10_12",
+    "type": "author_clarification",
+    "author": "Марат",
+    "date": "2026-10-12",
+    "location": "Текущий диалог: авторское вступление, поправки по картам и окончательное согласование",
+    "role": "Приоритетный смысловой источник; изображение — основа фактической сцены"
+  }
+}

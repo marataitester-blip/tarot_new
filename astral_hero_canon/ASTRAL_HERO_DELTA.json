@@ -1,0 +1,1016 @@
+{
+  "schema_version": "1.1",
+  "deck_id": "astral_hero",
+  "version": "1.0.0",
+  "status": "author_approved",
+  "confidence_definition": "HIGH — рабочее значение подтверждено/принято автором; факты физической карты и анимации, сообщённые автором, помечены отдельно от просмотренных цифровых изображений. Утверждение смысла не делает исследовательские применения авторскими цитатами.",
+  "source_registry": {
+    "E": {
+      "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx",
+      "role": "Подробная Энциклопедия; основной кандидат авторского смыслового слоя"
+    },
+    "E2": {
+      "url": "https://github.com/marataitester-blip/enciklopedia-tarot/blob/f76072615d8883f04e08d06eba9908f894714674/index.html",
+      "role": "Отдельная Энциклопедия с теми же ключевыми авторскими отличиями"
+    },
+    "OLD": {
+      "url": "https://github.com/marataitester-blip/astral-hero-enciklop/blob/12518f16dbe366afcacfed8f7dc865d529194406/index.html",
+      "role": "Ранняя Энциклопедия; альтернативные и классические трактовки"
+    },
+    "AURA": {
+      "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts",
+      "role": "Авторские краткие трактовки автономного Aura; совпадение не является независимым авторским свидетельством"
+    },
+    "AURA_OLD": {
+      "url": "https://github.com/marataitester-blip/MIRMAG-aura/blob/f4482d2624a8d07c68d819485bd4c11385b68602/tarotData.ts",
+      "role": "Другой вариант Aura; Герой-подвиг и Белая карта-молчание"
+    },
+    "SUPER": {
+      "url": "https://github.com/marataitester-blip/SUPER_VISION_TAROT/blob/03150020e2757c68e30177e44bf79624843bfbb1/src/tarotData.ts",
+      "role": "Повторение авторского слоя Aura в другом проекте"
+    },
+    "JSON": {
+      "url": "https://github.com/marataitester-blip/tarot_new/blob/98782476b60f30155f279a8b949188a270dbbb77/final_deck.json",
+      "role": "80 ID и мультимедиа; большинство long описывает классический Уайт"
+    },
+    "CONST": {
+      "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/constants.ts",
+      "role": "Справочник Оракула; близок к final_deck.json"
+    },
+    "DATA": {
+      "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/tarotData.ts",
+      "role": "80 normalizedName; авторские description вместе с частично классическими keywords"
+    },
+    "ZORKI": {
+      "url": "https://github.com/marataitester-blip/AURA-zorki/blob/4c4c21c77a51e28fcb5185d844e293eaecb6558f/tarot_db.js",
+      "role": "Ироничный справочник; нельзя считать его стилевую подачу каноном"
+    },
+    "TRIPLET": {
+      "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Triplet.tsx",
+      "role": "Отдельная выжимка Энциклопедии для синтеза"
+    },
+    "VISION": {
+      "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/services/visionButler.ts",
+      "role": "Фото и список допустимых названий; возвращает позиции и имена"
+    },
+    "IDENTIFY": {
+      "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/api/identify-card.ts",
+      "role": "Распознавание одной карты без передачи полного справочника значений"
+    },
+    "PSI": {
+      "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/services/psiTarotService.ts",
+      "role": "Запрос к интерпретатору с именами, позициями и вопросом"
+    },
+    "API": {
+      "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/api/analyze.js",
+      "role": "Сервер задаёт личность; удаляет клиентские system messages"
+    },
+    "WRAPPER": {
+      "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/AuraScanner.tsx",
+      "role": "iframe на mirmag-aura-4xd5.vercel.app; версия размещённого приложения не подтверждена"
+    },
+    "RWS": {
+      "url": "https://sacred-texts.com/tarot/pkt/index.htm",
+      "role": "А. Э. Уэйт, The Pictorial Key to the Tarot; текст и архивные репродукции рисунков Памелы Колман Смит"
+    },
+    "MARAT_2026_10_12": {
+      "source_id": "MARAT_2026_10_12",
+      "type": "author_clarification",
+      "author": "Марат",
+      "date": "2026-10-12",
+      "location": "Текущий диалог: авторское вступление, поправки по картам и окончательное согласование",
+      "role": "Приоритетный смысловой источник; изображение — основа фактической сцены"
+    }
+  },
+  "cards": [
+    {
+      "CARD": "lovers",
+      "NAME_RU": "Влюбленные",
+      "CATEGORY": "B",
+      "CLASSICAL_CORRESPONDENCE": "The Lovers",
+      "ASTRAL_HERO_DIFFERENCE": "Союз показан как космическое взаимное притяжение; текст усиливает выбор душой.",
+      "CORE_MEANING": "Любовь как соединение с другим: глубокая взаимная связь и выбор сердцем. Влюблённые входят в общую ось трёх ипостасей любви.",
+      "KEEP_FROM_WAITE": "Союз, выбор, согласование ценностей.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не подменять сцену Адамом, Евой и раем; не сводить карту только к рациональной дилемме. Исторические символические предписания не управляют этой сценой; связь не означает неизбежный союз.",
+      "VISUAL_CUE": "Две одетые фигуры парят навстречу друг другу в звёздном пространстве; за ними светящиеся дуги. Взгляды и руки направлены друг к другу.",
+      "RESEARCHER_INTERPRETATION": "Соединение и глубокая взаимная связь читаются через современный гуманистический смысл колоды. Космическая композиция не даёт основания обещать неизбежность отношений.",
+      "SOURCE": [
+        {
+          "source_id": "MARAT_2026_10_12",
+          "type": "author_clarification",
+          "author": "Марат",
+          "date": "2026-10-12",
+          "location": "Текущий диалог: авторское вступление, поправки по картам и окончательное согласование",
+          "role": "Приоритетный смысловой источник; изображение — основа фактической сцены"
+        },
+        {
+          "source_id": "E",
+          "card_name": "Влюбленные",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Влюбленные",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/06_lovers.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "APPROVAL_SOURCE": "MARAT_2026_10_12",
+      "AUTHOR_AMENDMENT": false
+    },
+    {
+      "CARD": "temperance",
+      "NAME_RU": "Умеренность",
+      "CATEGORY": "B",
+      "CLASSICAL_CORRESPONDENCE": "Temperance",
+      "DISPLAY_KEYWORD": "Гармония",
+      "ASTRAL_HERO_DIFFERENCE": "Обращение к Леонардо: гармония и алхимия выражены другим визуальным языком. Одна из трёх ипостасей любви — гармонизация и соединение разного.",
+      "CORE_MEANING": "Гармония, алхимия и согласование разного. Сохраняется базовое значение, дополненное общей осью любви Влюблённые — Умеренность — Луна.",
+      "KEEP_FROM_WAITE": "Баланс, гармония, терпение, синтез, алхимия.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не выводить новый жёсткий эзотерический код из другого стиля или многорукости. Не описывать классическое переливание между двумя чашами как единственное видимое действие.",
+      "VISUAL_CUE": "Многорукий образ, светлая/тёмная и тёплая/холодная половины, чаши, круги и бесконечность. Обращение к Леонардо и принадлежность оси любви прямо заданы автором.",
+      "RESEARCHER_INTERPRETATION": "Обращение к Леонардо можно видеть в геометрии фигуры и композиции, но точный список конкретных цитат из его работ автором не задан.",
+      "SOURCE": [
+        {
+          "source_id": "MARAT_2026_10_12",
+          "type": "author_clarification",
+          "author": "Марат",
+          "date": "2026-10-12",
+          "location": "Текущий диалог: авторское вступление, поправки по картам и окончательное согласование",
+          "role": "Приоритетный смысловой источник; изображение — основа фактической сцены"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/14_temperance.webp"
+        },
+        {
+          "source_id": "E",
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx",
+          "card_name": "Умеренность"
+        }
+      ],
+      "AUTHOR_AMENDMENT": true,
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "APPROVAL_SOURCE": "MARAT_2026_10_12"
+    },
+    {
+      "CARD": "tower",
+      "NAME_RU": "Башня",
+      "CATEGORY": "B",
+      "CLASSICAL_CORRESPONDENCE": "The Tower",
+      "ASTRAL_HERO_DIFFERENCE": "В авторском тексте рушится структура, а не люди; на изображении нет падающих фигур.",
+      "CORE_MEANING": "Крах ложной конструкции и освобождение от неё.",
+      "KEEP_FROM_WAITE": "Внезапность, кризис, разрушение иллюзий.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не дорисовывать падающих людей и не приписывать изображению физическую гибель.",
+      "VISUAL_CUE": "Каменная башня в грозовом пространстве, молнии, повреждённая кладка, огонь и обломки; человеческих фигур не видно.",
+      "RESEARCHER_INTERPRETATION": "Объект чтения — способ организации жизни, отношения или убеждения; переживание кризиса у человека сохраняется.",
+      "SOURCE": [
+        {
+          "source_id": "E",
+          "card_name": "Башня",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Башня",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/16_tower.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "APPROVAL_SOURCE": "MARAT_2026_10_12",
+      "AUTHOR_AMENDMENT": false
+    },
+    {
+      "CARD": "star",
+      "NAME_RU": "Звезда",
+      "CATEGORY": "C",
+      "CLASSICAL_CORRESPONDENCE": "The Star",
+      "ASTRAL_HERO_DIFFERENCE": "Корабль и путеводная звезда заменяют обнажённую женщину с кувшинами.",
+      "CORE_MEANING": "После бури вернуть ориентир и спокойно следовать своей цели.",
+      "KEEP_FROM_WAITE": "Надежда, восстановление, вдохновение.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не считать главным действием раздачу воды, обнажённость или только пассивное ожидание помощи.",
+      "VISUAL_CUE": "Парусный корабль в спокойном море; над ним одна доминирующая яркая звезда и множество маленьких; путь освещён отражённым светом. Направление к конкретному берегу не показано.",
+      "RESEARCHER_INTERPRETATION": "Надежда становится навигацией. Психологический вопрос — что ведёт меня дальше; это согласуется с авторским текстом.",
+      "SOURCE": [
+        {
+          "source_id": "E",
+          "card_name": "Звезда",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Звезда",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/17_star.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "APPROVAL_SOURCE": "MARAT_2026_10_12",
+      "AUTHOR_AMENDMENT": false
+    },
+    {
+      "CARD": "moon",
+      "NAME_RU": "Луна",
+      "CATEGORY": "C",
+      "CLASSICAL_CORRESPONDENCE": "The Moon",
+      "ASTRAL_HERO_DIFFERENCE": "Одна из трёх ипостасей любви: интегрированность света и тени. Интеграция убирает страх перед тенью, сохраняя мистичность и магичность Луны.",
+      "CORE_MEANING": "Мистическая и магическая глубина Луны, доступная через интеграцию света и тени. Человек способен вместить тень; она перестаёт пугать.",
+      "KEEP_FROM_WAITE": "Тайна, интуиция, подсознание, сны, мистическая глубина — без автоматического объявления обмана и угрозы.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не делать страхи, обман и иллюзии обязательным центральным смыслом. Не убирать мистичность и магичность ради интеграции. Не описывать отсутствующих волка, собаку, рака и две башни.",
+      "VISUAL_CUE": "Женская фигура в светлом/тёмном космическом пространстве. Иной стиль связан с общей осью Влюблённые — Умеренность — Луна.",
+      "RESEARCHER_INTERPRETATION": "Как светлая и теневая стороны могут быть вмещены в одно переживание так, чтобы тень перестала пугать? Магический язык остаётся частью авторского смысла.",
+      "SOURCE": [
+        {
+          "source_id": "MARAT_2026_10_12",
+          "type": "author_clarification",
+          "author": "Марат",
+          "date": "2026-10-12",
+          "location": "Текущий диалог: авторское вступление, поправки по картам и окончательное согласование",
+          "role": "Приоритетный смысловой источник; изображение — основа фактической сцены"
+        },
+        {
+          "source_id": "E",
+          "card_name": "Луна",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Луна",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/18_moon.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "DISPLAY_KEYWORD": "Интеграция света и тени",
+      "AUTHOR_AMENDMENT": true,
+      "APPROVAL_SOURCE": "MARAT_2026_10_12"
+    },
+    {
+      "CARD": "judgement",
+      "NAME_RU": "Суд",
+      "CATEGORY": "C",
+      "CLASSICAL_CORRESPONDENCE": "Judgement",
+      "ASTRAL_HERO_DIFFERENCE": "Прощение, второй шанс и возрождение дополнены возможностью выйти из кризиса сразу на другой уровень жизни. Солнечное окошко обозначает этот выход; павших больше, чем воскресших, поэтому шанс не гарантирован каждому.",
+      "CORE_MEANING": "Шанс на жизнь: возможность качественного выхода из кризиса, принятия второго шанса и перехода на другой уровень. Жизнь читается через конкретный запрос, не обязательно буквально.",
+      "KEEP_FROM_WAITE": "Пробуждение, подведение итогов, призвание, возрождение.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не обещать неизбежное возрождение каждому. Не назначать буквальное спасение от смерти, массовое воскресение или кару центральным смыслом. Сохранять вес и негарантированность шанса.",
+      "VISUAL_CUE": "Просмотренный WebP: рыцарь среди павших, светлая фигура с чашей, лучи и трубы сверху. Автор выделяет солнечное окошко как выход на другой уровень и соотношение павших и воскресших.",
+      "RESEARCHER_INTERPRETATION": "Искать доступную человеку возможность вернуться к участию, смыслу, отношениям или своему пути; точное применение определяется вопросом.",
+      "SOURCE": [
+        {
+          "source_id": "MARAT_2026_10_12",
+          "type": "author_clarification",
+          "author": "Марат",
+          "date": "2026-10-12",
+          "location": "Текущий диалог: авторское вступление, поправки по картам и окончательное согласование",
+          "role": "Приоритетный смысловой источник; изображение — основа фактической сцены"
+        },
+        {
+          "source_id": "E",
+          "card_name": "Суд",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Суд",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/20_judgement.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "DISPLAY_KEYWORD": "Шанс на жизнь",
+      "AUTHOR_AMENDMENT": true,
+      "APPROVAL_SOURCE": "MARAT_2026_10_12"
+    },
+    {
+      "CARD": "hero",
+      "NAME_RU": "Герой",
+      "CATEGORY": "D",
+      "CLASSICAL_CORRESPONDENCE": null,
+      "ASTRAL_HERO_DIFFERENCE": "Уникальный XXII: момент осознания самого себя и своих глубинных ценностей через прожитый опыт. Внешние достижения лежат у ног; настоящее проявляется в заботе о ждавшей собаке.",
+      "CORE_MEANING": "Инсайт: узнавание себя и собственных настоящих ценностей, спрятанных глубже внешних целей. Герой становится Шутом, не переставая быть Героем; защита остаётся частью опыта.",
+      "KEEP_FROM_WAITE": "Прямого соответствия нет. С Шутом допустима связь открытости и непосредственности, сохраняющих накопленный опыт.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не сводить к победе, отдыху, завершению или новому подвигу. Не считать доспехи признаком застревания и не требовать их снять. Не навязывать отказ от внешних достижений каждому человеку.",
+      "VISUAL_CUE": "Просмотренный WebP: сидящий воин с собакой; меч, шлем, монеты и чаша у ног; нагрудник и наплечники остаются. Автор поясняет: собака ждала Героя, он поит её молоком; внешние цели — власть, слава, признание, богатство — лежат у ног.",
+      "RESEARCHER_INTERPRETATION": "Вопрос позиции: что человек сейчас узнаёт о себе и своих ценностях через собственное внимание и действие? Это применение согласованного авторского ядра, а не дополнительный закон карты.",
+      "SOURCE": [
+        {
+          "source_id": "MARAT_2026_10_12",
+          "type": "author_clarification",
+          "author": "Марат",
+          "date": "2026-10-12",
+          "location": "Текущий диалог: авторское вступление, поправки по картам и окончательное согласование",
+          "role": "Приоритетный смысловой источник; изображение — основа фактической сцены"
+        },
+        {
+          "source_id": "E",
+          "card_name": "Герой",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Герой",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/22_hero.webp"
+        },
+        {
+          "source_id": "JSON",
+          "deck_numeric_id": 22,
+          "fields": [
+            "texts.short",
+            "texts.long"
+          ],
+          "url": "https://github.com/marataitester-blip/tarot_new/blob/98782476b60f30155f279a8b949188a270dbbb77/final_deck.json"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "DISPLAY_KEYWORD": "Опыт",
+      "SHADOW_STATUS": "Специальная теневая/перевёрнутая версия не задана. Прежняя гипотеза застревания в броне исключена из ядра.",
+      "AUTHOR_AMENDMENT": true,
+      "APPROVAL_SOURCE": "MARAT_2026_10_12"
+    },
+    {
+      "CARD": "white_card",
+      "NAME_RU": "Белая Карта",
+      "CATEGORY": "D",
+      "CLASSICAL_CORRESPONDENCE": null,
+      "ASTRAL_HERO_DIFFERENCE": "Уникальная карта расширяет пространство расклада и сохраняет остальные карты. На метауровне — пустота, бесконечность и вечность, вмещающие всё; в человеческом моменте — свобода воли и конкретное ценное проявление.",
+      "CORE_MEANING": "Открытое пространство, которое может быть наполнено чем угодно. В конкретном моменте человек вмещает вечность и проявляет возможность через осознание и свободный выбор. Свобода воли — рабочий ориентир, не исчерпывающее название.",
+      "KEEP_FROM_WAITE": "Прямого соответствия нет. Не заменять Шутом, Миром или стандартной картой неизвестности.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не отменять соседние/предыдущие карты. Не сводить к отсутствию ответа, закрытой тайне, запрету вопросов или обязательной паузе. Не делать всадника обязательным сюжетом развилки. Не придумывать гарантированный исход и мгновенное исполнение желаний.",
+      "VISUAL_CUE": "По автору, физическая карта: сплошная антрацитно-чёрная заливка без рамки, маленький знак бесконечности в центре, внизу надпись Белая карта. По автору, в анимации ветер создаёт песочного всадника на перепутье и затем разрушает его. Просмотренный цифровой WebP — другая версия: белое поле в рамке; не подменять им физическую карту.",
+      "RESEARCHER_INTERPRETATION": "Соотнести безграничное пространство с тем, что человек способен осознать, выбрать и воплотить сейчас. Образ всадника поясняет временное проявление вечности, а не предписывает сценарий дороги.",
+      "SOURCE": [
+        {
+          "source_id": "MARAT_2026_10_12",
+          "type": "author_clarification",
+          "author": "Марат",
+          "date": "2026-10-12",
+          "location": "Текущий диалог: авторское вступление, поправки по картам и окончательное согласование",
+          "role": "Приоритетный смысловой источник; изображение — основа фактической сцены"
+        },
+        {
+          "source_id": "E",
+          "card_name": "Белая Карта",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Белая Карта",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/23_white_card.webp"
+        },
+        {
+          "source_id": "JSON",
+          "deck_numeric_id": 23,
+          "fields": [
+            "texts.short",
+            "texts.long"
+          ],
+          "url": "https://github.com/marataitester-blip/tarot_new/blob/98782476b60f30155f279a8b949188a270dbbb77/final_deck.json"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "DISPLAY_KEYWORD": "Свобода воли",
+      "VISUAL_VARIANTS": [
+        {
+          "kind": "physical",
+          "description": "Антрацитно-чёрная сплошная заливка без рамки; маленький ∞ в центре; подпись Белая карта внизу.",
+          "evidence": "Описание автора в текущем диалоге; скан физической карты не предоставлен."
+        },
+        {
+          "kind": "animation",
+          "description": "Ветер создаёт песочного всадника на перепутье и разрушает его.",
+          "evidence": "Пояснение автора; полный просмотр видео в этом обновлении не выполнен."
+        },
+        {
+          "kind": "digital_webp",
+          "description": "Белое поле в золотой рамке со знаком ∞ наверху.",
+          "evidence": "Изображение из tarot_new просмотрено на исследовательском этапе."
+        }
+      ],
+      "READING_POLICY": {
+        "cancel_other_cards": false,
+        "expand_reading_space": true,
+        "mandatory_question": false,
+        "mandatory_extra_draw": false,
+        "mandatory_pause": false,
+        "outcome_policy": "Не заполнять открытое пространство уверенным сценарием. Соседние карты сохраняют свои значения. Вопрос и дополнительная карта допустимы по ситуации, но не являются обязательным авторским правилом."
+      },
+      "AUTHOR_AMENDMENT": true,
+      "APPROVAL_SOURCE": "MARAT_2026_10_12"
+    },
+    {
+      "CARD": "ace_of_wands",
+      "NAME_RU": "Туз Жезлов",
+      "CATEGORY": "B",
+      "CLASSICAL_CORRESPONDENCE": "Ace of Wands",
+      "ASTRAL_HERO_DIFFERENCE": "Жезл дан как укоренённое живое дерево, а не только дар извне.",
+      "CORE_MEANING": "Творческий импульс с корнями и потенциалом роста.",
+      "KEEP_FROM_WAITE": "Начало, вдохновение, энергия действия.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не считать импульс лишь мимолётной искрой или описывать отсутствующую руку из облака.",
+      "VISUAL_CUE": "Вертикальный горящий посох с корнями в земле, обвивающим его змеевидным элементом и подсолнухами; персонажа нет.",
+      "RESEARCHER_INTERPRETATION": "Смысловой акцент — жизнеспособность начинания. Название Кундалини есть в Энциклопедии; это авторская интерпретация, не вывод по одному рисунку.",
+      "SOURCE": [
+        {
+          "source_id": "E",
+          "card_name": "Туз Жезлов",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Туз Жезлов",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/wands_01_ace.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "APPROVAL_SOURCE": "MARAT_2026_10_12",
+      "AUTHOR_AMENDMENT": false
+    },
+    {
+      "CARD": "eight_of_wands",
+      "NAME_RU": "Восьмерка Жезлов",
+      "CATEGORY": "C",
+      "CLASSICAL_CORRESPONDENCE": "Eight of Wands",
+      "ASTRAL_HERO_DIFFERENCE": "Время — важнейший фактор, управление временем — важнейший навык. Власть у того, кто управляет временем. Правитель ставит ещё один жезл, воин служит ему.",
+      "CORE_MEANING": "Время → навык управления временем → власть. Организация момента, ритма, сроков и темпа определяет возможность управлять происходящим.",
+      "KEEP_FROM_WAITE": "Движение, развитие, темп и своевременность — в части, согласующейся с авторским управлением временем.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не читать как автоматическое ускорение событий, скорые новости или поездку. Выбор темпа — частный случай более широкого смысла власти через управление временем.",
+      "VISUAL_CUE": "Солнечные часы, жезлы и правитель с воином. Авторское уточнение действия: правитель ставит ещё один жезл, воин служит ему. Статичный WebP не заменяет авторское пояснение действия.",
+      "RESEARCHER_INTERPRETATION": "Кто задаёт сроки и момент действия? Кто распоряжается своим временем, а кто служит чужому расписанию? Это прикладные вопросы к согласованному смыслу.",
+      "SOURCE": [
+        {
+          "source_id": "MARAT_2026_10_12",
+          "type": "author_clarification",
+          "author": "Марат",
+          "date": "2026-10-12",
+          "location": "Текущий диалог: авторское вступление, поправки по картам и окончательное согласование",
+          "role": "Приоритетный смысловой источник; изображение — основа фактической сцены"
+        },
+        {
+          "source_id": "E",
+          "card_name": "Восьмерка Жезлов",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Восьмерка Жезлов",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/wands_08_eight.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "DISPLAY_KEYWORD": "Время и власть",
+      "AUTHOR_AMENDMENT": true,
+      "APPROVAL_SOURCE": "MARAT_2026_10_12"
+    },
+    {
+      "CARD": "two_of_cups",
+      "NAME_RU": "Двойка Кубков",
+      "CATEGORY": "B",
+      "CLASSICAL_CORRESPONDENCE": "Two of Cups",
+      "ASTRAL_HERO_DIFFERENCE": "Космическое соединение двух потоков заменяет земной обмен кубками.",
+      "CORE_MEANING": "Глубокое взаимное притяжение и объединение эмоциональных потоков.",
+      "KEEP_FROM_WAITE": "Взаимность, партнёрство, любовь, согласие.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не возвращать кадуцей и крылатую львиную голову как видимые элементы; не сводить союз только к бытовой договорённости.",
+      "VISUAL_CUE": "Два наклонённых кубка в светящемся пространстве, водные потоки замыкаются в общий рисунок; наверху слабые контуры фигур.",
+      "RESEARCHER_INTERPRETATION": "Соединение и глубокая взаимная связь читаются через современный гуманистический смысл колоды. Космическая композиция не даёт основания обещать неизбежность отношений.",
+      "SOURCE": [
+        {
+          "source_id": "MARAT_2026_10_12",
+          "type": "author_clarification",
+          "author": "Марат",
+          "date": "2026-10-12",
+          "location": "Текущий диалог: авторское вступление, поправки по картам и окончательное согласование",
+          "role": "Приоритетный смысловой источник; изображение — основа фактической сцены"
+        },
+        {
+          "source_id": "E",
+          "card_name": "Двойка Кубков",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Двойка Кубков",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_02_two.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "APPROVAL_SOURCE": "MARAT_2026_10_12",
+      "AUTHOR_AMENDMENT": false
+    },
+    {
+      "CARD": "four_of_cups",
+      "NAME_RU": "Четверка Кубков",
+      "CATEGORY": "B",
+      "CLASSICAL_CORRESPONDENCE": "Four of Cups",
+      "ASTRAL_HERO_DIFFERENCE": "Возможность предлагает конкретная женщина, а не безличная рука из облака.",
+      "CORE_MEANING": "Эмоциональное закрытие мешает заметить живое предложение другого человека.",
+      "KEEP_FROM_WAITE": "Апатия, пресыщение, отказ, возможность самоанализа.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не превращать сцену только в абстрактный дар Вселенной и не утверждать намерения второго человека вне вопроса клиента.",
+      "VISUAL_CUE": "На берегу сидят двое: женщина протягивает чашу юноше, который отвернулся и держит руки у корпуса; ещё три чаши стоят на ковре.",
+      "RESEARCHER_INTERPRETATION": "Может стать важна взаимная динамика: один обращается, другой не принимает. Основной смысл апатии сохранён.",
+      "SOURCE": [
+        {
+          "source_id": "E",
+          "card_name": "Четверка Кубков",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Четверка Кубков",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_04_four.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "APPROVAL_SOURCE": "MARAT_2026_10_12",
+      "AUTHOR_AMENDMENT": false
+    },
+    {
+      "CARD": "five_of_cups",
+      "NAME_RU": "Пятерка Кубков",
+      "CATEGORY": "B",
+      "CLASSICAL_CORRESPONDENCE": "Five of Cups",
+      "ASTRAL_HERO_DIFFERENCE": "Соотношение ресурсов изменено: две чаши опрокинуты, три остаются стоять; текст это отдельно подчёркивает.",
+      "CORE_MEANING": "Горе и фокус на потере скрывают сохранённый ресурс.",
+      "KEEP_FROM_WAITE": "Утрата, печаль, возможность увидеть оставшееся.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не воспроизводить привычное соотношение Уайта: три потеряны, две сохранены; не выводить проценты или сроки из количества чаш.",
+      "VISUAL_CUE": "Спиной к зрителю стоит фигура в плаще; перед ней две разлитые чаши, справа позади три стоящие; есть река, мост, замок, ночной свет.",
+      "RESEARCHER_INTERPRETATION": "Сохранённого видимого ресурса больше, чем потерянного. Это изменение композиционного акцента; оно не делает боль незначительной.",
+      "SOURCE": [
+        {
+          "source_id": "E",
+          "card_name": "Пятерка Кубков",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Пятерка Кубков",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_05_five.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "APPROVAL_SOURCE": "MARAT_2026_10_12",
+      "AUTHOR_AMENDMENT": false
+    },
+    {
+      "CARD": "eight_of_cups",
+      "NAME_RU": "Восьмерка Кубков",
+      "CATEGORY": "C",
+      "CLASSICAL_CORRESPONDENCE": "Eight of Cups",
+      "ASTRAL_HERO_DIFFERENCE": "Восхождение по мере наполнения текущих кубков. Кубки становятся ступенями пути к себе, а не оставленной эмоциональной жизнью.",
+      "CORE_MEANING": "Путь к себе: движение вверх по мере наполнения текущих кубков. Проживание и наполнение текущей ступени поддерживают дальнейшее восхождение.",
+      "KEEP_FROM_WAITE": "Внутренний поиск, развитие, стремление к более глубокому смыслу — без обязательного ухода/оставления.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не делать уход, отказ от прежней жизни, бегство или оставление хорошего основным значением. Не требовать бросить отношения/работу по названию карты. Не изобретать жёсткий порог наполнения каждого кубка.",
+      "VISUAL_CUE": "Фигура поднимается по лестнице из кубков; вода наполняет/перетекает, вверху Луна. Автор определяет движение вверх по мере наполнения текущих кубков.",
+      "RESEARCHER_INTERPRETATION": "Чем человек наполняет свою жизнь сейчас и как это наполнение ведёт его к себе? Это применение авторского смысла, не дополнительный норматив.",
+      "SOURCE": [
+        {
+          "source_id": "MARAT_2026_10_12",
+          "type": "author_clarification",
+          "author": "Марат",
+          "date": "2026-10-12",
+          "location": "Текущий диалог: авторское вступление, поправки по картам и окончательное согласование",
+          "role": "Приоритетный смысловой источник; изображение — основа фактической сцены"
+        },
+        {
+          "source_id": "E",
+          "card_name": "Восьмерка Кубков",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Восьмерка Кубков",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_08_eight.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "DISPLAY_KEYWORD": "Путь к себе",
+      "AUTHOR_AMENDMENT": true,
+      "APPROVAL_SOURCE": "MARAT_2026_10_12"
+    },
+    {
+      "CARD": "three_of_swords",
+      "NAME_RU": "Тройка Мечей",
+      "CATEGORY": "B",
+      "CLASSICAL_CORRESPONDENCE": "Three of Swords",
+      "ASTRAL_HERO_DIFFERENCE": "Прозрачное сердце трактуется как раненые эмоции при сохранённой сути человека.",
+      "CORE_MEANING": "Прожить реальную эмоциональную боль, сохранив надежду и чувство собственной целостности.",
+      "KEEP_FROM_WAITE": "Горе, болезненная правда, утрата, раненое сердце.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не говорить, что человек уничтожен или что боль выдумана; не назначать предательство обязательным фактом.",
+      "VISUAL_CUE": "Три меча проходят через прозрачную сердцевидную форму; дождь, грозовые облака и холодный пейзаж.",
+      "RESEARCHER_INTERPRETATION": "Источник называет форму водой или льдом. Материал визуально неоднозначен, но акцент на переживании, не на уничтожении личности, подтверждён текстом.",
+      "SOURCE": [
+        {
+          "source_id": "E",
+          "card_name": "Тройка Мечей",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Тройка Мечей",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_03_three.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "APPROVAL_SOURCE": "MARAT_2026_10_12",
+      "AUTHOR_AMENDMENT": false
+    },
+    {
+      "CARD": "five_of_swords",
+      "NAME_RU": "Пятерка Мечей",
+      "CATEGORY": "C",
+      "CLASSICAL_CORRESPONDENCE": "Five of Swords",
+      "ASTRAL_HERO_DIFFERENCE": "Павшие — воины одного клана. Неизвестно, убиты ли они внешними врагами или девушкой своего клана. Война не всегда дарует победу, но всегда боль; цветы на мечах намекают, что боль не вечна и жизнь допускает другой способ действия.",
+      "CORE_MEANING": "Признать боль и увидеть возможность жизни за пределами войны. Действовать из жажды жизни: наблюдать, экспериментировать, искать — без обязательного превращения ситуации в борьбу.",
+      "KEEP_FROM_WAITE": "Боль, последствия конфликта, цена войны; победа не является обязательным фактом.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не начинать с утверждения ты победил, но какой ценой. Не назначать победителя, убийцу или виновного. Не называть павших врагами: автор определил общий клан. Не обещать быстрый конец боли и не требовать найти позитив.",
+      "VISUAL_CUE": "Фигура девушки в доспехах среди лежащих воинов; цветы на мечах. Автор подтверждает принадлежность одному клану; убийца по сцене не установлен.",
+      "RESEARCHER_INTERPRETATION": "Сохранить неизвестность причины и спросить, какое действие поддержит жизнь без продолжения войны. Надежда не отменяет реальности боли.",
+      "SOURCE": [
+        {
+          "source_id": "MARAT_2026_10_12",
+          "type": "author_clarification",
+          "author": "Марат",
+          "date": "2026-10-12",
+          "location": "Текущий диалог: авторское вступление, поправки по картам и окончательное согласование",
+          "role": "Приоритетный смысловой источник; изображение — основа фактической сцены"
+        },
+        {
+          "source_id": "E",
+          "card_name": "Пятерка Мечей",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Пятерка Мечей",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_05_five.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "DISPLAY_KEYWORD": "Боль не вечна",
+      "AUTHOR_AMENDMENT": true,
+      "APPROVAL_SOURCE": "MARAT_2026_10_12"
+    },
+    {
+      "CARD": "six_of_swords",
+      "NAME_RU": "Шестерка Мечей",
+      "CATEGORY": "C",
+      "CLASSICAL_CORRESPONDENCE": "Six of Swords",
+      "ASTRAL_HERO_DIFFERENCE": "В авторской модели карта раскрывает две компоненты мира — информацию и энергию — и управление энергией через информацию. Бомба и АЭС иллюстрируют разные результаты организации и применения энергии.",
+      "CORE_MEANING": "Информация задаёт энергии структуру, направление и способ применения. Знание и организация превращают доступную энергию в конкретный результат: созидание или разрушение.",
+      "KEEP_FROM_WAITE": "Ясность, организация и переход к другому состоянию допустимы как частные проявления управления через информацию.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не сводить к лодке, переезду, бегству или исключительно внутренней защите. Две компоненты — авторская смысловая модель колоды, не научное утверждение об исчерпывающем составе мира.",
+      "VISUAL_CUE": "Фигура парит/танцует в центре структуры из мечей, в световом пространстве над водой. Мечи прочитываются через информационную организацию энергии; лодки нет.",
+      "RESEARCHER_INTERPRETATION": "Какая энергия доступна, какая информация ею управляет и какой результат создаёт выбранный способ организации? Самоанализ и защита — возможные частные случаи.",
+      "SOURCE": [
+        {
+          "source_id": "MARAT_2026_10_12",
+          "type": "author_clarification",
+          "author": "Марат",
+          "date": "2026-10-12",
+          "location": "Текущий диалог: авторское вступление, поправки по картам и окончательное согласование",
+          "role": "Приоритетный смысловой источник; изображение — основа фактической сцены"
+        },
+        {
+          "source_id": "E",
+          "card_name": "Шестерка Мечей",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Шестерка Мечей",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_06_six.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "DISPLAY_KEYWORD": "Информация и энергия",
+      "AUTHOR_AMENDMENT": true,
+      "APPROVAL_SOURCE": "MARAT_2026_10_12"
+    },
+    {
+      "CARD": "eight_of_swords",
+      "NAME_RU": "Восьмерка Мечей",
+      "CATEGORY": "C",
+      "CLASSICAL_CORRESPONDENCE": "Eight of Swords",
+      "ASTRAL_HERO_DIFFERENCE": "Несвязанный воин вместо женщины с повязкой; ограничения также служат направлением и заточкой ума.",
+      "CORE_MEANING": "Использовать реальные ограничения как ориентиры для поиска доступного решения. Авторская отсылка: Наутиз; ограничения помогают найти путь и заточить ум.",
+      "KEEP_FROM_WAITE": "Ощущение блокировки, пределы, необходимость сменить способ действия.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не описывать верёвки и повязку; не сводить всё к иллюзии беспомощности или необходимости разрушить любые ограничения.",
+      "VISUAL_CUE": "Воин стоит в воде/грязи среди мечей, глаза открыты, руки свободны; за ним дорога к замку. Лицо обращено к зрителю, а не к замку.",
+      "RESEARCHER_INTERPRETATION": "Автор называет замок направлением выхода. По рисунку нельзя утверждать, что воин уже идёт к нему или что выбор решения единственный в реальной жизни.",
+      "SOURCE": [
+        {
+          "source_id": "MARAT_2026_10_12",
+          "type": "author_clarification",
+          "author": "Марат",
+          "date": "2026-10-12",
+          "location": "Текущий диалог: авторское вступление, поправки по картам и окончательное согласование",
+          "role": "Приоритетный смысловой источник; изображение — основа фактической сцены"
+        },
+        {
+          "source_id": "E",
+          "card_name": "Восьмерка Мечей",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Восьмерка Мечей",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_08_eight.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "AUTHOR_REFERENCE": "Наутиз — подтверждённая автором отсылка к функции ограничений, помогающих найти путь и заточить ум. Дополнительные рунические значения автоматически не переносятся.",
+      "APPROVAL_SOURCE": "MARAT_2026_10_12",
+      "AUTHOR_AMENDMENT": false
+    },
+    {
+      "CARD": "ten_of_swords",
+      "NAME_RU": "Десятка Мечей",
+      "CATEGORY": "C",
+      "CLASSICAL_CORRESPONDENCE": "Ten of Swords",
+      "ASTRAL_HERO_DIFFERENCE": "Мечи стоят вокруг тела, а не пронзают его; добавлены свет и бабочки.",
+      "CORE_MEANING": "Болезненное завершение освобождает из ментальной тюрьмы и допускает трансформацию.",
+      "KEEP_FROM_WAITE": "Конец цикла, исчерпанность прежнего, рассвет после кризиса.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не утверждать удар в спину как обязательный сюжет, пронзённое тело или буквальную смерть; освобождение должно остаться центральным.",
+      "VISUAL_CUE": "Человек лежит лицом вверх с раскрытыми руками, мечи воткнуты вокруг; светящийся поток и бабочки поднимаются вверх, вдали рассвет.",
+      "RESEARCHER_INTERPRETATION": "Автор трактует свет как освобождающуюся душу. Факт изображения — свет и бабочки; душа — авторское толкование, не визуально проверяемое явление.",
+      "SOURCE": [
+        {
+          "source_id": "E",
+          "card_name": "Десятка Мечей",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Десятка Мечей",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_10_ten.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "APPROVAL_SOURCE": "MARAT_2026_10_12",
+      "AUTHOR_AMENDMENT": false
+    },
+    {
+      "CARD": "ace_of_pentacles",
+      "NAME_RU": "Туз Пентаклей",
+      "CATEGORY": "C",
+      "CLASSICAL_CORRESPONDENCE": "Ace of Pentacles",
+      "ASTRAL_HERO_DIFFERENCE": "Искатель с картой и сияющим пентаклем-древом вместо руки с готовой монетой.",
+      "CORE_MEANING": "Обнаружить осмысленный материальный путь и начать его по имеющемуся плану.",
+      "KEEP_FROM_WAITE": "Шанс, материальное начало, рост, практичность.",
+      "DO_NOT_DEFAULT_TO_WAITE": "Не сводить к подаренным деньгам, случайному выигрышу или готовому богатству без пути и действия.",
+      "VISUAL_CUE": "Стоящая фигура в пейзаже протягивает руку; у ног лежит лист-карта; над ней огромный сияющий круг с деревом; видны вода, горы и дорога.",
+      "RESEARCHER_INTERPRETATION": "Шанс становится маршрутом/квестом. Наличие цели и плана подтверждено текстом; обещание гарантированной прибыли не следует из него.",
+      "SOURCE": [
+        {
+          "source_id": "E",
+          "card_name": "Туз Пентаклей",
+          "fields": [
+            "meaning_text",
+            "meaning_keywords"
+          ],
+          "url": "https://github.com/marataitester-blip/Living-Tarot/blob/4eb1a4618551e94e059b9c79309b9d25501d7935/src/Encyclopedia.tsx"
+        },
+        {
+          "source_id": "AURA",
+          "card_name": "Туз Пентаклей",
+          "field": "desc_general",
+          "url": "https://github.com/marataitester-blip/MIRMAG.AURA/blob/d045bdd482c4e289c3d7f7d41e602e869b507e14/data/tarotData.ts"
+        },
+        {
+          "source_id": "IMAGE",
+          "url": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/pentacles_01_ace.webp"
+        }
+      ],
+      "CONFIDENCE": "HIGH",
+      "AUTHOR_APPROVED": true,
+      "PENDING_DECISIONS": [],
+      "APPROVAL_SOURCE": "MARAT_2026_10_12",
+      "AUTHOR_AMENDMENT": false
+    }
+  ],
+  "approved_by": "Марат",
+  "approved_on": "2026-10-12",
+  "deck_philosophy": {
+    "style": "Неоклассика",
+    "positioning": "Современное переосмысление Rider–Waite–Smith с гуманистическим и человеческим смещением коллективного смысла.",
+    "symbol_policy": "Сознательный уход от жёсткой символической системы. Традиционные, в том числе масонские, знаки не задают обязательного следования историческим значениям. Современное коллективное восприятие может переосмысливать знак.",
+    "source_priority": [
+      "Авторские уточнения в этой сессии",
+      "Факты авторского изображения с учётом физической/цифровой/анимированной версии",
+      "Согласующиеся авторские пояснения",
+      "Базовые знания RWS в непротиворечащей части"
+    ],
+    "personality_policy": "Колода является отдельным смысловым контекстом; личности Pilot и Margot не изменяются.",
+    "author_approved": true
+  },
+  "shared_layers": [
+    {
+      "id": "love_axis",
+      "activate_for_any_card_ids": [
+        "lovers",
+        "temperance",
+        "moon"
+      ],
+      "runtime_context": "ASTRAL HERO LOVE AXIS\nВлюблённые, Умеренность и Луна выделены другим стилем и образуют авторскую ось современности: любовь, гармоничность, интегрированность. На космическом уровне это три ипостаси любви: любовь соединяет всё со всем. Влюблённые — соединение с другим; Умеренность — гармония и алхимия соединения; Луна — интеграция света и тени, освобождающая от страха тени и сохраняющая мистичность и магичность. Это принцип авторского чтения, не обязательная историческая символическая система. Применяй его к выпавшим картам; не утверждай, что вся тройка присутствует в раскладе, если выпала только одна карта.",
+      "author_approved": true,
+      "source": "MARAT_2026_10_12",
+      "author_reference": "Любовь соединяет всё со всем; автор связывает этот принцип с Общей теорией магии Меньшикова. Внешнее исследование этой теории не выполнялось."
+    }
+  ]
+}

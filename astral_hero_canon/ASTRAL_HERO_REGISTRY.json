@@ -1,0 +1,2099 @@
+{
+  "deck_id": "astral_hero",
+  "cards": [
+    {
+      "id": "fool",
+      "deck_numeric_id": 0,
+      "name_ru": "Шут",
+      "name_en": "The Fool",
+      "file": "00_fool.webp",
+      "number": 0,
+      "suit": null,
+      "rws_counterpart": "The Fool",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/00_fool.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Шут",
+        "The Fool",
+        "fool",
+        "00_fool.webp",
+        "00_fool"
+      ],
+      "baseline_meaning": "Начало Пути",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "magician",
+      "deck_numeric_id": 1,
+      "name_ru": "Маг",
+      "name_en": "The Magician",
+      "file": "01_magician.webp",
+      "number": 1,
+      "suit": null,
+      "rws_counterpart": "The Magician",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/01_magician.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Маг",
+        "The Magician",
+        "magician",
+        "01_magician.webp",
+        "01_magician"
+      ],
+      "baseline_meaning": "Проявление Воли",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "high_priestess",
+      "deck_numeric_id": 2,
+      "name_ru": "Верховная Жрица",
+      "name_en": "The High Priestess",
+      "file": "02_high_priestess.webp",
+      "number": 2,
+      "suit": null,
+      "rws_counterpart": "The High Priestess",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/02_high_priestess.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Верховная Жрица",
+        "The High Priestess",
+        "high_priestess",
+        "02_high_priestess.webp",
+        "02_high_priestess",
+        "Жрица",
+        "Верховная жрица"
+      ],
+      "baseline_meaning": "Интуиция",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "empress",
+      "deck_numeric_id": 3,
+      "name_ru": "Императрица",
+      "name_en": "The Empress",
+      "file": "03_empress.webp",
+      "number": 3,
+      "suit": null,
+      "rws_counterpart": "The Empress",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/03_empress.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Императрица",
+        "The Empress",
+        "empress",
+        "03_empress.webp",
+        "03_empress"
+      ],
+      "baseline_meaning": "Созидание",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "emperor",
+      "deck_numeric_id": 4,
+      "name_ru": "Император",
+      "name_en": "The Emperor",
+      "file": "04_emperor.webp",
+      "number": 4,
+      "suit": null,
+      "rws_counterpart": "The Emperor",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/04_emperor.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Император",
+        "The Emperor",
+        "emperor",
+        "04_emperor.webp",
+        "04_emperor"
+      ],
+      "baseline_meaning": "Структура",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "hierophant",
+      "deck_numeric_id": 5,
+      "name_ru": "Иерофант",
+      "name_en": "The Hierophant",
+      "file": "05_hierophant.webp",
+      "number": 5,
+      "suit": null,
+      "rws_counterpart": "The Hierophant",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/05_hierophant.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Иерофант",
+        "The Hierophant",
+        "hierophant",
+        "05_hierophant.webp",
+        "05_hierophant"
+      ],
+      "baseline_meaning": "Традиция",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "lovers",
+      "deck_numeric_id": 6,
+      "name_ru": "Влюбленные",
+      "name_en": "The Lovers",
+      "file": "06_lovers.webp",
+      "number": 6,
+      "suit": null,
+      "rws_counterpart": "The Lovers",
+      "category": "B",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/06_lovers.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Влюбленные",
+        "The Lovers",
+        "lovers",
+        "06_lovers.webp",
+        "06_lovers"
+      ],
+      "baseline_meaning": "Любовь как соединение с другим: глубокая взаимная связь и выбор сердцем. Влюблённые входят в общую ось трёх ипостасей любви.",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "chariot",
+      "deck_numeric_id": 7,
+      "name_ru": "Колесница",
+      "name_en": "The Chariot",
+      "file": "07_chariot.webp",
+      "number": 7,
+      "suit": null,
+      "rws_counterpart": "The Chariot",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/07_chariot.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Колесница",
+        "The Chariot",
+        "chariot",
+        "07_chariot.webp",
+        "07_chariot"
+      ],
+      "baseline_meaning": "Триумф Воли",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "justice",
+      "deck_numeric_id": 8,
+      "name_ru": "Справедливость",
+      "name_en": "Justice",
+      "file": "08_justice.webp",
+      "number": 8,
+      "suit": null,
+      "rws_counterpart": "Justice",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/08_justice.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Справедливость",
+        "Justice",
+        "justice",
+        "08_justice.webp",
+        "08_justice"
+      ],
+      "baseline_meaning": "Равновесие",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "hermit",
+      "deck_numeric_id": 9,
+      "name_ru": "Отшельник",
+      "name_en": "The Hermit",
+      "file": "09_hermit.webp",
+      "number": 9,
+      "suit": null,
+      "rws_counterpart": "The Hermit",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/09_hermit.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Отшельник",
+        "The Hermit",
+        "hermit",
+        "09_hermit.webp",
+        "09_hermit"
+      ],
+      "baseline_meaning": "Внутренний Свет",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "wheel_of_fortune",
+      "deck_numeric_id": 10,
+      "name_ru": "Колесо Фортуны",
+      "name_en": "The Wheel of Fortune",
+      "file": "10_wheel_of_fortune.webp",
+      "number": 10,
+      "suit": null,
+      "rws_counterpart": "The Wheel of Fortune",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/10_wheel_of_fortune.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Колесо Фортуны",
+        "The Wheel of Fortune",
+        "wheel_of_fortune",
+        "10_wheel_of_fortune.webp",
+        "10_wheel_of_fortune"
+      ],
+      "baseline_meaning": "Циклы Судьбы",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "strength",
+      "deck_numeric_id": 11,
+      "name_ru": "Сила",
+      "name_en": "Strength",
+      "file": "11_strength.webp",
+      "number": 11,
+      "suit": null,
+      "rws_counterpart": "Strength",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/11_strength.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Сила",
+        "Strength",
+        "strength",
+        "11_strength.webp",
+        "11_strength"
+      ],
+      "baseline_meaning": "Мягкая Власть",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "hanged_man",
+      "deck_numeric_id": 12,
+      "name_ru": "Повешенный",
+      "name_en": "The Hanged Man",
+      "file": "12_hanged_man.webp",
+      "number": 12,
+      "suit": null,
+      "rws_counterpart": "The Hanged Man",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/12_hanged_man.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Повешенный",
+        "The Hanged Man",
+        "hanged_man",
+        "12_hanged_man.webp",
+        "12_hanged_man"
+      ],
+      "baseline_meaning": "Жертва",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "death",
+      "deck_numeric_id": 13,
+      "name_ru": "Смерть",
+      "name_en": "Death",
+      "file": "13_death.webp",
+      "number": 13,
+      "suit": null,
+      "rws_counterpart": "Death",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/13_death.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Смерть",
+        "Death",
+        "death",
+        "13_death.webp",
+        "13_death"
+      ],
+      "baseline_meaning": "Трансформация",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "temperance",
+      "deck_numeric_id": 14,
+      "name_ru": "Умеренность",
+      "name_en": "Temperance",
+      "file": "14_temperance.webp",
+      "number": 14,
+      "suit": null,
+      "rws_counterpart": "Temperance",
+      "category": "B",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/14_temperance.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Умеренность",
+        "Temperance",
+        "temperance",
+        "14_temperance.webp",
+        "14_temperance"
+      ],
+      "baseline_meaning": "Гармония",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "devil",
+      "deck_numeric_id": 15,
+      "name_ru": "Дьявол",
+      "name_en": "The Devil",
+      "file": "15_devil.webp",
+      "number": 15,
+      "suit": null,
+      "rws_counterpart": "The Devil",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/15_devil.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Дьявол",
+        "The Devil",
+        "devil",
+        "15_devil.webp",
+        "15_devil"
+      ],
+      "baseline_meaning": "Иллюзия Несвободы",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "tower",
+      "deck_numeric_id": 16,
+      "name_ru": "Башня",
+      "name_en": "The Tower",
+      "file": "16_tower.webp",
+      "number": 16,
+      "suit": null,
+      "rws_counterpart": "The Tower",
+      "category": "B",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/16_tower.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Башня",
+        "The Tower",
+        "tower",
+        "16_tower.webp",
+        "16_tower"
+      ],
+      "baseline_meaning": "Крах ложной конструкции и освобождение от неё.",
+      "classification_status": "author_approved_working_classification",
+      "printed_english_name": "THE TOWERS"
+    },
+    {
+      "id": "star",
+      "deck_numeric_id": 17,
+      "name_ru": "Звезда",
+      "name_en": "The Star",
+      "file": "17_star.webp",
+      "number": 17,
+      "suit": null,
+      "rws_counterpart": "The Star",
+      "category": "C",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/17_star.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Звезда",
+        "The Star",
+        "star",
+        "17_star.webp",
+        "17_star"
+      ],
+      "baseline_meaning": "После бури вернуть ориентир и спокойно следовать своей цели.",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "moon",
+      "deck_numeric_id": 18,
+      "name_ru": "Луна",
+      "name_en": "The Moon",
+      "file": "18_moon.webp",
+      "number": 18,
+      "suit": null,
+      "rws_counterpart": "The Moon",
+      "category": "C",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/18_moon.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Луна",
+        "The Moon",
+        "moon",
+        "18_moon.webp",
+        "18_moon"
+      ],
+      "baseline_meaning": "Интеграция света и тени",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "sun",
+      "deck_numeric_id": 19,
+      "name_ru": "Солнце",
+      "name_en": "The Sun",
+      "file": "19_sun.webp",
+      "number": 19,
+      "suit": null,
+      "rws_counterpart": "The Sun",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/19_sun.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Солнце",
+        "The Sun",
+        "sun",
+        "19_sun.webp",
+        "19_sun"
+      ],
+      "baseline_meaning": "Абсолютная Радость",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "judgement",
+      "deck_numeric_id": 20,
+      "name_ru": "Суд",
+      "name_en": "Judgement",
+      "file": "20_judgement.webp",
+      "number": 20,
+      "suit": null,
+      "rws_counterpart": "Judgement",
+      "category": "C",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/20_judgement.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Суд",
+        "Judgement",
+        "judgement",
+        "20_judgement.webp",
+        "20_judgement"
+      ],
+      "baseline_meaning": "Шанс на жизнь",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "world",
+      "deck_numeric_id": 21,
+      "name_ru": "Мир",
+      "name_en": "The World",
+      "file": "21_world.webp",
+      "number": 21,
+      "suit": null,
+      "rws_counterpart": "The World",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/21_world.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Мир",
+        "The World",
+        "world",
+        "21_world.webp",
+        "21_world"
+      ],
+      "baseline_meaning": "Завершение",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "hero",
+      "deck_numeric_id": 22,
+      "name_ru": "Герой",
+      "name_en": "The Hero",
+      "file": "22_hero.webp",
+      "number": 22,
+      "suit": null,
+      "rws_counterpart": null,
+      "category": "D",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/22_hero.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Герой",
+        "The Hero",
+        "hero",
+        "22_hero.webp",
+        "22_hero",
+        "Астральный Герой",
+        "Hero"
+      ],
+      "baseline_meaning": "Опыт",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "white_card",
+      "deck_numeric_id": 23,
+      "name_ru": "Белая Карта",
+      "name_en": "The White Card",
+      "file": "23_white_card.webp",
+      "number": null,
+      "suit": null,
+      "rws_counterpart": null,
+      "category": "D",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/23_white_card.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Белая Карта",
+        "The White Card",
+        "white_card",
+        "23_white_card.webp",
+        "23_white_card",
+        "Белая карта",
+        "White Card"
+      ],
+      "baseline_meaning": "Свобода воли",
+      "classification_status": "author_approved_working_classification",
+      "internal_number": 23,
+      "printed_number": "∞",
+      "image_source_scope": "digital_webp_only; physical and animated variants described by author differ"
+    },
+    {
+      "id": "ace_of_wands",
+      "deck_numeric_id": 24,
+      "name_ru": "Туз Жезлов",
+      "name_en": "Ace of Wands",
+      "file": "wands_01_ace.webp",
+      "number": 1,
+      "suit": "wands",
+      "rws_counterpart": "Ace of Wands",
+      "category": "B",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/wands_01_ace.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Туз Жезлов",
+        "Ace of Wands",
+        "ace_of_wands",
+        "wands_01_ace.webp",
+        "wands_01_ace"
+      ],
+      "baseline_meaning": "Творческий импульс с корнями и потенциалом роста.",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "two_of_wands",
+      "deck_numeric_id": 25,
+      "name_ru": "Двойка Жезлов",
+      "name_en": "Two of Wands",
+      "file": "wands_02_two.webp",
+      "number": 2,
+      "suit": "wands",
+      "rws_counterpart": "Two of Wands",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/wands_02_two.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Двойка Жезлов",
+        "Two of Wands",
+        "two_of_wands",
+        "wands_02_two.webp",
+        "wands_02_two"
+      ],
+      "baseline_meaning": "План",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "three_of_wands",
+      "deck_numeric_id": 26,
+      "name_ru": "Тройка Жезлов",
+      "name_en": "Three of Wands",
+      "file": "wands_03_three.webp",
+      "number": 3,
+      "suit": "wands",
+      "rws_counterpart": "Three of Wands",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/wands_03_three.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Тройка Жезлов",
+        "Three of Wands",
+        "three_of_wands",
+        "wands_03_three.webp",
+        "wands_03_three"
+      ],
+      "baseline_meaning": "Ожидание",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "four_of_wands",
+      "deck_numeric_id": 27,
+      "name_ru": "Четверка Жезлов",
+      "name_en": "Four of Wands",
+      "file": "wands_04_four.webp",
+      "number": 4,
+      "suit": "wands",
+      "rws_counterpart": "Four of Wands",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/wands_04_four.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Четверка Жезлов",
+        "Four of Wands",
+        "four_of_wands",
+        "wands_04_four.webp",
+        "wands_04_four"
+      ],
+      "baseline_meaning": "Праздник",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "five_of_wands",
+      "deck_numeric_id": 28,
+      "name_ru": "Пятерка Жезлов",
+      "name_en": "Five of Wands",
+      "file": "wands_05_five.webp",
+      "number": 5,
+      "suit": "wands",
+      "rws_counterpart": "Five of Wands",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/wands_05_five.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Пятерка Жезлов",
+        "Five of Wands",
+        "five_of_wands",
+        "wands_05_five.webp",
+        "wands_05_five"
+      ],
+      "baseline_meaning": "Соревнование",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "six_of_wands",
+      "deck_numeric_id": 29,
+      "name_ru": "Шестерка Жезлов",
+      "name_en": "Six of Wands",
+      "file": "wands_06_six.webp",
+      "number": 6,
+      "suit": "wands",
+      "rws_counterpart": "Six of Wands",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/wands_06_six.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Шестерка Жезлов",
+        "Six of Wands",
+        "six_of_wands",
+        "wands_06_six.webp",
+        "wands_06_six"
+      ],
+      "baseline_meaning": "Триумф",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "seven_of_wands",
+      "deck_numeric_id": 30,
+      "name_ru": "Семерка Жезлов",
+      "name_en": "Seven of Wands",
+      "file": "wands_07_seven.webp",
+      "number": 7,
+      "suit": "wands",
+      "rws_counterpart": "Seven of Wands",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/wands_07_seven.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Семерка Жезлов",
+        "Seven of Wands",
+        "seven_of_wands",
+        "wands_07_seven.webp",
+        "wands_07_seven"
+      ],
+      "baseline_meaning": "Защита",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "eight_of_wands",
+      "deck_numeric_id": 31,
+      "name_ru": "Восьмерка Жезлов",
+      "name_en": "Eight of Wands",
+      "file": "wands_08_eight.webp",
+      "number": 8,
+      "suit": "wands",
+      "rws_counterpart": "Eight of Wands",
+      "category": "C",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/wands_08_eight.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Восьмерка Жезлов",
+        "Eight of Wands",
+        "eight_of_wands",
+        "wands_08_eight.webp",
+        "wands_08_eight"
+      ],
+      "baseline_meaning": "Время и власть",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "nine_of_wands",
+      "deck_numeric_id": 32,
+      "name_ru": "Девятка Жезлов",
+      "name_en": "Nine of Wands",
+      "file": "wands_09_nine.webp",
+      "number": 9,
+      "suit": "wands",
+      "rws_counterpart": "Nine of Wands",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/wands_09_nine.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Девятка Жезлов",
+        "Nine of Wands",
+        "nine_of_wands",
+        "wands_09_nine.webp",
+        "wands_09_nine"
+      ],
+      "baseline_meaning": "Стойкость",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "ten_of_wands",
+      "deck_numeric_id": 33,
+      "name_ru": "Десятка Жезлов",
+      "name_en": "Ten of Wands",
+      "file": "wands_10_ten.webp",
+      "number": 10,
+      "suit": "wands",
+      "rws_counterpart": "Ten of Wands",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/wands_10_ten.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Десятка Жезлов",
+        "Ten of Wands",
+        "ten_of_wands",
+        "wands_10_ten.webp",
+        "wands_10_ten"
+      ],
+      "baseline_meaning": "Бремя",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "page_of_wands",
+      "deck_numeric_id": 34,
+      "name_ru": "Паж Жезлов",
+      "name_en": "Page of Wands",
+      "file": "wands_11_page.webp",
+      "number": 11,
+      "suit": "wands",
+      "rws_counterpart": "Page of Wands",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/wands_11_page.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Паж Жезлов",
+        "Page of Wands",
+        "page_of_wands",
+        "wands_11_page.webp",
+        "wands_11_page"
+      ],
+      "baseline_meaning": "Вестник Идеи",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "knight_of_wands",
+      "deck_numeric_id": 35,
+      "name_ru": "Рыцарь Жезлов",
+      "name_en": "Knight of Wands",
+      "file": "wands_12_knight.webp",
+      "number": 12,
+      "suit": "wands",
+      "rws_counterpart": "Knight of Wands",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/wands_12_knight.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Рыцарь Жезлов",
+        "Knight of Wands",
+        "knight_of_wands",
+        "wands_12_knight.webp",
+        "wands_12_knight"
+      ],
+      "baseline_meaning": "Действие в Хаосе",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "queen_of_wands",
+      "deck_numeric_id": 36,
+      "name_ru": "Королева Жезлов",
+      "name_en": "Queen of Wands",
+      "file": "wands_13_queen.webp",
+      "number": 13,
+      "suit": "wands",
+      "rws_counterpart": "Queen of Wands",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/wands_13_queen.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Королева Жезлов",
+        "Queen of Wands",
+        "queen_of_wands",
+        "wands_13_queen.webp",
+        "wands_13_queen"
+      ],
+      "baseline_meaning": "Харизма",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "king_of_wands",
+      "deck_numeric_id": 37,
+      "name_ru": "Король Жезлов",
+      "name_en": "King of Wands",
+      "file": "wands_14_king.webp",
+      "number": 14,
+      "suit": "wands",
+      "rws_counterpart": "King of Wands",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/wands_14_king.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Король Жезлов",
+        "King of Wands",
+        "king_of_wands",
+        "wands_14_king.webp",
+        "wands_14_king"
+      ],
+      "baseline_meaning": "Мастер Огня",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "ace_of_cups",
+      "deck_numeric_id": 38,
+      "name_ru": "Туз Кубков",
+      "name_en": "Ace of Cups",
+      "file": "cups_01_ace.webp",
+      "number": 1,
+      "suit": "cups",
+      "rws_counterpart": "Ace of Cups",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_01_ace.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Туз Кубков",
+        "Ace of Cups",
+        "ace_of_cups",
+        "cups_01_ace.webp",
+        "cups_01_ace"
+      ],
+      "baseline_meaning": "Источник",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "two_of_cups",
+      "deck_numeric_id": 39,
+      "name_ru": "Двойка Кубков",
+      "name_en": "Two of Cups",
+      "file": "cups_02_two.webp",
+      "number": 2,
+      "suit": "cups",
+      "rws_counterpart": "Two of Cups",
+      "category": "B",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_02_two.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Двойка Кубков",
+        "Two of Cups",
+        "two_of_cups",
+        "cups_02_two.webp",
+        "cups_02_two"
+      ],
+      "baseline_meaning": "Глубокое взаимное притяжение и объединение эмоциональных потоков.",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "three_of_cups",
+      "deck_numeric_id": 40,
+      "name_ru": "Тройка Кубков",
+      "name_en": "Three of Cups",
+      "file": "cups_03_three.webp",
+      "number": 3,
+      "suit": "cups",
+      "rws_counterpart": "Three of Cups",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_03_three.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Тройка Кубков",
+        "Three of Cups",
+        "three_of_cups",
+        "cups_03_three.webp",
+        "cups_03_three"
+      ],
+      "baseline_meaning": "Праздник",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "four_of_cups",
+      "deck_numeric_id": 41,
+      "name_ru": "Четверка Кубков",
+      "name_en": "Four of Cups",
+      "file": "cups_04_four.webp",
+      "number": 4,
+      "suit": "cups",
+      "rws_counterpart": "Four of Cups",
+      "category": "B",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_04_four.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Четверка Кубков",
+        "Four of Cups",
+        "four_of_cups",
+        "cups_04_four.webp",
+        "cups_04_four"
+      ],
+      "baseline_meaning": "Эмоциональное закрытие мешает заметить живое предложение другого человека.",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "five_of_cups",
+      "deck_numeric_id": 42,
+      "name_ru": "Пятерка Кубков",
+      "name_en": "Five of Cups",
+      "file": "cups_05_five.webp",
+      "number": 5,
+      "suit": "cups",
+      "rws_counterpart": "Five of Cups",
+      "category": "B",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_05_five.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Пятерка Кубков",
+        "Five of Cups",
+        "five_of_cups",
+        "cups_05_five.webp",
+        "cups_05_five"
+      ],
+      "baseline_meaning": "Горе и фокус на потере скрывают сохранённый ресурс.",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "six_of_cups",
+      "deck_numeric_id": 43,
+      "name_ru": "Шестерка Кубков",
+      "name_en": "Six of Cups",
+      "file": "cups_06_six.webp",
+      "number": 6,
+      "suit": "cups",
+      "rws_counterpart": "Six of Cups",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_06_six.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Шестерка Кубков",
+        "Six of Cups",
+        "six_of_cups",
+        "cups_06_six.webp",
+        "cups_06_six"
+      ],
+      "baseline_meaning": "Ностальгия",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "seven_of_cups",
+      "deck_numeric_id": 44,
+      "name_ru": "Семерка Кубков",
+      "name_en": "Seven of Cups",
+      "file": "cups_07_seven.webp",
+      "number": 7,
+      "suit": "cups",
+      "rws_counterpart": "Seven of Cups",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_07_seven.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Семерка Кубков",
+        "Seven of Cups",
+        "seven_of_cups",
+        "cups_07_seven.webp",
+        "cups_07_seven"
+      ],
+      "baseline_meaning": "Иллюзии",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "eight_of_cups",
+      "deck_numeric_id": 45,
+      "name_ru": "Восьмерка Кубков",
+      "name_en": "Eight of Cups",
+      "file": "cups_08_eight.webp",
+      "number": 8,
+      "suit": "cups",
+      "rws_counterpart": "Eight of Cups",
+      "category": "C",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_08_eight.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Восьмерка Кубков",
+        "Eight of Cups",
+        "eight_of_cups",
+        "cups_08_eight.webp",
+        "cups_08_eight"
+      ],
+      "baseline_meaning": "Путь к себе",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "nine_of_cups",
+      "deck_numeric_id": 46,
+      "name_ru": "Девятка Кубков",
+      "name_en": "Nine of Cups",
+      "file": "cups_09_nine.webp",
+      "number": 9,
+      "suit": "cups",
+      "rws_counterpart": "Nine of Cups",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_09_nine.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Девятка Кубков",
+        "Nine of Cups",
+        "nine_of_cups",
+        "cups_09_nine.webp",
+        "cups_09_nine"
+      ],
+      "baseline_meaning": "Исполнение Желаний",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "ten_of_cups",
+      "deck_numeric_id": 47,
+      "name_ru": "Десятка Кубков",
+      "name_en": "Ten of Cups",
+      "file": "cups_10_ten.webp",
+      "number": 10,
+      "suit": "cups",
+      "rws_counterpart": "Ten of Cups",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_10_ten.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Десятка Кубков",
+        "Ten of Cups",
+        "ten_of_cups",
+        "cups_10_ten.webp",
+        "cups_10_ten"
+      ],
+      "baseline_meaning": "Высшая Гармония",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "page_of_cups",
+      "deck_numeric_id": 48,
+      "name_ru": "Паж Кубков",
+      "name_en": "Page of Cups",
+      "file": "cups_11_page.webp",
+      "number": 11,
+      "suit": "cups",
+      "rws_counterpart": "Page of Cups",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_11_page.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Паж Кубков",
+        "Page of Cups",
+        "page_of_cups",
+        "cups_11_page.webp",
+        "cups_11_page"
+      ],
+      "baseline_meaning": "Вестник Чудес",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "knight_of_cups",
+      "deck_numeric_id": 49,
+      "name_ru": "Рыцарь Кубков",
+      "name_en": "Knight of Cups",
+      "file": "cups_12_knight.webp",
+      "number": 12,
+      "suit": "cups",
+      "rws_counterpart": "Knight of Cups",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_12_knight.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Рыцарь Кубков",
+        "Knight of Cups",
+        "knight_of_cups",
+        "cups_12_knight.webp",
+        "cups_12_knight"
+      ],
+      "baseline_meaning": "Романтический Квест",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "queen_of_cups",
+      "deck_numeric_id": 50,
+      "name_ru": "Королева Кубков",
+      "name_en": "Queen of Cups",
+      "file": "cups_13_queen.webp",
+      "number": 13,
+      "suit": "cups",
+      "rws_counterpart": "Queen of Cups",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_13_queen.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Королева Кубков",
+        "Queen of Cups",
+        "queen_of_cups",
+        "cups_13_queen.webp",
+        "cups_13_queen"
+      ],
+      "baseline_meaning": "Королева Интуиции",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "king_of_cups",
+      "deck_numeric_id": 51,
+      "name_ru": "Король Кубков",
+      "name_en": "King of Cups",
+      "file": "cups_14_king.webp",
+      "number": 14,
+      "suit": "cups",
+      "rws_counterpart": "King of Cups",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/cups_14_king.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Король Кубков",
+        "King of Cups",
+        "king_of_cups",
+        "cups_14_king.webp",
+        "cups_14_king"
+      ],
+      "baseline_meaning": "Мастер Глубин",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "ace_of_swords",
+      "deck_numeric_id": 52,
+      "name_ru": "Туз Мечей",
+      "name_en": "Ace of Swords",
+      "file": "swords_01_ace.webp",
+      "number": 1,
+      "suit": "swords",
+      "rws_counterpart": "Ace of Swords",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_01_ace.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Туз Мечей",
+        "Ace of Swords",
+        "ace_of_swords",
+        "swords_01_ace.webp",
+        "swords_01_ace"
+      ],
+      "baseline_meaning": "Прорыв Истины",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "two_of_swords",
+      "deck_numeric_id": 53,
+      "name_ru": "Двойка Мечей",
+      "name_en": "Two of Swords",
+      "file": "swords_02_two.webp",
+      "number": 2,
+      "suit": "swords",
+      "rws_counterpart": "Two of Swords",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_02_two.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Двойка Мечей",
+        "Two of Swords",
+        "two_of_swords",
+        "swords_02_two.webp",
+        "swords_02_two"
+      ],
+      "baseline_meaning": "Ментальный Тупик",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "three_of_swords",
+      "deck_numeric_id": 54,
+      "name_ru": "Тройка Мечей",
+      "name_en": "Three of Swords",
+      "file": "swords_03_three.webp",
+      "number": 3,
+      "suit": "swords",
+      "rws_counterpart": "Three of Swords",
+      "category": "B",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_03_three.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Тройка Мечей",
+        "Three of Swords",
+        "three_of_swords",
+        "swords_03_three.webp",
+        "swords_03_three"
+      ],
+      "baseline_meaning": "Прожить реальную эмоциональную боль, сохранив надежду и чувство собственной целостности.",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "four_of_swords",
+      "deck_numeric_id": 55,
+      "name_ru": "Четверка Мечей",
+      "name_en": "Four of Swords",
+      "file": "swords_04_four.webp",
+      "number": 4,
+      "suit": "swords",
+      "rws_counterpart": "Four of Swords",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_04_four.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Четверка Мечей",
+        "Four of Swords",
+        "four_of_swords",
+        "swords_04_four.webp",
+        "swords_04_four"
+      ],
+      "baseline_meaning": "Ментальный Отдых",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "five_of_swords",
+      "deck_numeric_id": 56,
+      "name_ru": "Пятерка Мечей",
+      "name_en": "Five of Swords",
+      "file": "swords_05_five.webp",
+      "number": 5,
+      "suit": "swords",
+      "rws_counterpart": "Five of Swords",
+      "category": "C",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_05_five.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Пятерка Мечей",
+        "Five of Swords",
+        "five_of_swords",
+        "swords_05_five.webp",
+        "swords_05_five"
+      ],
+      "baseline_meaning": "Боль не вечна",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "six_of_swords",
+      "deck_numeric_id": 57,
+      "name_ru": "Шестерка Мечей",
+      "name_en": "Six of Swords",
+      "file": "swords_06_six.webp",
+      "number": 6,
+      "suit": "swords",
+      "rws_counterpart": "Six of Swords",
+      "category": "C",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_06_six.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Шестерка Мечей",
+        "Six of Swords",
+        "six_of_swords",
+        "swords_06_six.webp",
+        "swords_06_six"
+      ],
+      "baseline_meaning": "Информация и энергия",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "seven_of_swords",
+      "deck_numeric_id": 58,
+      "name_ru": "Семерка Мечей",
+      "name_en": "Seven of Swords",
+      "file": "swords_07_seven.webp",
+      "number": 7,
+      "suit": "swords",
+      "rws_counterpart": "Seven of Swords",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_07_seven.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Семерка Мечей",
+        "Seven of Swords",
+        "seven_of_swords",
+        "swords_07_seven.webp",
+        "swords_07_seven"
+      ],
+      "baseline_meaning": "Хитрость",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "eight_of_swords",
+      "deck_numeric_id": 59,
+      "name_ru": "Восьмерка Мечей",
+      "name_en": "Eight of Swords",
+      "file": "swords_08_eight.webp",
+      "number": 8,
+      "suit": "swords",
+      "rws_counterpart": "Eight of Swords",
+      "category": "C",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_08_eight.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Восьмерка Мечей",
+        "Eight of Swords",
+        "eight_of_swords",
+        "swords_08_eight.webp",
+        "swords_08_eight"
+      ],
+      "baseline_meaning": "Использовать реальные ограничения как ориентиры для поиска доступного решения. Авторская отсылка: Наутиз; ограничения помогают найти путь и заточить ум.",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "nine_of_swords",
+      "deck_numeric_id": 60,
+      "name_ru": "Девятка Мечей",
+      "name_en": "Nine of Swords",
+      "file": "swords_09_nine.webp",
+      "number": 9,
+      "suit": "swords",
+      "rws_counterpart": "Nine of Swords",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_09_nine.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Девятка Мечей",
+        "Nine of Swords",
+        "nine_of_swords",
+        "swords_09_nine.webp",
+        "swords_09_nine"
+      ],
+      "baseline_meaning": "Ментальная Пытка",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "ten_of_swords",
+      "deck_numeric_id": 61,
+      "name_ru": "Десятка Мечей",
+      "name_en": "Ten of Swords",
+      "file": "swords_10_ten.webp",
+      "number": 10,
+      "suit": "swords",
+      "rws_counterpart": "Ten of Swords",
+      "category": "C",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_10_ten.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Десятка Мечей",
+        "Ten of Swords",
+        "ten_of_swords",
+        "swords_10_ten.webp",
+        "swords_10_ten"
+      ],
+      "baseline_meaning": "Болезненное завершение освобождает из ментальной тюрьмы и допускает трансформацию.",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "page_of_swords",
+      "deck_numeric_id": 62,
+      "name_ru": "Паж Мечей",
+      "name_en": "Page of Swords",
+      "file": "swords_11_page.webp",
+      "number": 11,
+      "suit": "swords",
+      "rws_counterpart": "Page of Swords",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_11_page.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Паж Мечей",
+        "Page of Swords",
+        "page_of_swords",
+        "swords_11_page.webp",
+        "swords_11_page"
+      ],
+      "baseline_meaning": "Вестник Идеи",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "knight_of_swords",
+      "deck_numeric_id": 63,
+      "name_ru": "Рыцарь Мечей",
+      "name_en": "Knight of Swords",
+      "file": "swords_12_knight.webp",
+      "number": 12,
+      "suit": "swords",
+      "rws_counterpart": "Knight of Swords",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_12_knight.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Рыцарь Мечей",
+        "Knight of Swords",
+        "knight_of_swords",
+        "swords_12_knight.webp",
+        "swords_12_knight"
+      ],
+      "baseline_meaning": "Стремительная Атака",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "queen_of_swords",
+      "deck_numeric_id": 64,
+      "name_ru": "Королева Мечей",
+      "name_en": "Queen of Swords",
+      "file": "swords_13_queen.webp",
+      "number": 13,
+      "suit": "swords",
+      "rws_counterpart": "Queen of Swords",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_13_queen.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Королева Мечей",
+        "Queen of Swords",
+        "queen_of_swords",
+        "swords_13_queen.webp",
+        "swords_13_queen"
+      ],
+      "baseline_meaning": "Королева Истины",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "king_of_swords",
+      "deck_numeric_id": 65,
+      "name_ru": "Король Мечей",
+      "name_en": "King of Swords",
+      "file": "swords_14_king.webp",
+      "number": 14,
+      "suit": "swords",
+      "rws_counterpart": "King of Swords",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/swords_14_king.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Король Мечей",
+        "King of Swords",
+        "king_of_swords",
+        "swords_14_king.webp",
+        "swords_14_king"
+      ],
+      "baseline_meaning": "Мастер Разума",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "ace_of_pentacles",
+      "deck_numeric_id": 66,
+      "name_ru": "Туз Пентаклей",
+      "name_en": "Ace of Pentacles",
+      "file": "pentacles_01_ace.webp",
+      "number": 1,
+      "suit": "pentacles",
+      "rws_counterpart": "Ace of Pentacles",
+      "category": "C",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/pentacles_01_ace.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Туз Пентаклей",
+        "Ace of Pentacles",
+        "ace_of_pentacles",
+        "pentacles_01_ace.webp",
+        "pentacles_01_ace"
+      ],
+      "baseline_meaning": "Обнаружить осмысленный материальный путь и начать его по имеющемуся плану.",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "two_of_pentacles",
+      "deck_numeric_id": 67,
+      "name_ru": "Двойка Пентаклей",
+      "name_en": "Two of Pentacles",
+      "file": "pentacles_02_two.webp",
+      "number": 2,
+      "suit": "pentacles",
+      "rws_counterpart": "Two of Pentacles",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/pentacles_02_two.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Двойка Пентаклей",
+        "Two of Pentacles",
+        "two_of_pentacles",
+        "pentacles_02_two.webp",
+        "pentacles_02_two"
+      ],
+      "baseline_meaning": "Гармоничный Баланс",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "three_of_pentacles",
+      "deck_numeric_id": 68,
+      "name_ru": "Тройка Пентаклей",
+      "name_en": "Three of Pentacles",
+      "file": "pentacles_03_three.webp",
+      "number": 3,
+      "suit": "pentacles",
+      "rws_counterpart": "Three of Pentacles",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/pentacles_03_three.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Тройка Пентаклей",
+        "Three of Pentacles",
+        "three_of_pentacles",
+        "pentacles_03_three.webp",
+        "pentacles_03_three"
+      ],
+      "baseline_meaning": "Командная Работа",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "four_of_pentacles",
+      "deck_numeric_id": 69,
+      "name_ru": "Четверка Пентаклей",
+      "name_en": "Four of Pentacles",
+      "file": "pentacles_04_four.webp",
+      "number": 4,
+      "suit": "pentacles",
+      "rws_counterpart": "Four of Pentacles",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/pentacles_04_four.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Четверка Пентаклей",
+        "Four of Pentacles",
+        "four_of_pentacles",
+        "pentacles_04_four.webp",
+        "pentacles_04_four"
+      ],
+      "baseline_meaning": "Удержание",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "five_of_pentacles",
+      "deck_numeric_id": 70,
+      "name_ru": "Пятерка Пентаклей",
+      "name_en": "Five of Pentacles",
+      "file": "pentacles_05_five.webp",
+      "number": 5,
+      "suit": "pentacles",
+      "rws_counterpart": "Five of Pentacles",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/pentacles_05_five.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Пятерка Пентаклей",
+        "Five of Pentacles",
+        "five_of_pentacles",
+        "pentacles_05_five.webp",
+        "pentacles_05_five"
+      ],
+      "baseline_meaning": "Кризис",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "six_of_pentacles",
+      "deck_numeric_id": 71,
+      "name_ru": "Шестерка Пентаклей",
+      "name_en": "Six of Pentacles",
+      "file": "pentacles_06_six.webp",
+      "number": 6,
+      "suit": "pentacles",
+      "rws_counterpart": "Six of Pentacles",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/pentacles_06_six.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Шестерка Пентаклей",
+        "Six of Pentacles",
+        "six_of_pentacles",
+        "pentacles_06_six.webp",
+        "pentacles_06_six"
+      ],
+      "baseline_meaning": "Баланс Давать/Брать",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "seven_of_pentacles",
+      "deck_numeric_id": 72,
+      "name_ru": "Семерка Пентаклей",
+      "name_en": "Seven of Pentacles",
+      "file": "pentacles_07_seven.webp",
+      "number": 7,
+      "suit": "pentacles",
+      "rws_counterpart": "Seven of Pentacles",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/pentacles_07_seven.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Семерка Пентаклей",
+        "Seven of Pentacles",
+        "seven_of_pentacles",
+        "pentacles_07_seven.webp",
+        "pentacles_07_seven"
+      ],
+      "baseline_meaning": "Оценка",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "eight_of_pentacles",
+      "deck_numeric_id": 73,
+      "name_ru": "Восьмерка Пентаклей",
+      "name_en": "Eight of Pentacles",
+      "file": "pentacles_08_eight.webp",
+      "number": 8,
+      "suit": "pentacles",
+      "rws_counterpart": "Eight of Pentacles",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/pentacles_08_eight.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Восьмерка Пентаклей",
+        "Eight of Pentacles",
+        "eight_of_pentacles",
+        "pentacles_08_eight.webp",
+        "pentacles_08_eight"
+      ],
+      "baseline_meaning": "Мастерство",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "nine_of_pentacles",
+      "deck_numeric_id": 74,
+      "name_ru": "Девятка Пентаклей",
+      "name_en": "Nine of Pentacles",
+      "file": "pentacles_09_nine.webp",
+      "number": 9,
+      "suit": "pentacles",
+      "rws_counterpart": "Nine of Pentacles",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/pentacles_09_nine.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Девятка Пентаклей",
+        "Nine of Pentacles",
+        "nine_of_pentacles",
+        "pentacles_09_nine.webp",
+        "pentacles_09_nine"
+      ],
+      "baseline_meaning": "Независимость",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "ten_of_pentacles",
+      "deck_numeric_id": 75,
+      "name_ru": "Десятка Пентаклей",
+      "name_en": "Ten of Pentacles",
+      "file": "pentacles_10_ten.webp",
+      "number": 10,
+      "suit": "pentacles",
+      "rws_counterpart": "Ten of Pentacles",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/pentacles_10_ten.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Десятка Пентаклей",
+        "Ten of Pentacles",
+        "ten_of_pentacles",
+        "pentacles_10_ten.webp",
+        "pentacles_10_ten"
+      ],
+      "baseline_meaning": "Наследие",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "page_of_pentacles",
+      "deck_numeric_id": 76,
+      "name_ru": "Паж Пентаклей",
+      "name_en": "Page of Pentacles",
+      "file": "pentacles_11_page.webp",
+      "number": 11,
+      "suit": "pentacles",
+      "rws_counterpart": "Page of Pentacles",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/pentacles_11_page.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Паж Пентаклей",
+        "Page of Pentacles",
+        "page_of_pentacles",
+        "pentacles_11_page.webp",
+        "pentacles_11_page"
+      ],
+      "baseline_meaning": "Шанс",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "knight_of_pentacles",
+      "deck_numeric_id": 77,
+      "name_ru": "Рыцарь Пентаклей",
+      "name_en": "Knight of Pentacles",
+      "file": "pentacles_12_knight.webp",
+      "number": 12,
+      "suit": "pentacles",
+      "rws_counterpart": "Knight of Pentacles",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/pentacles_12_knight.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Рыцарь Пентаклей",
+        "Knight of Pentacles",
+        "knight_of_pentacles",
+        "pentacles_12_knight.webp",
+        "pentacles_12_knight"
+      ],
+      "baseline_meaning": "Надежность",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "queen_of_pentacles",
+      "deck_numeric_id": 78,
+      "name_ru": "Королева Пентаклей",
+      "name_en": "Queen of Pentacles",
+      "file": "pentacles_13_queen.webp",
+      "number": 13,
+      "suit": "pentacles",
+      "rws_counterpart": "Queen of Pentacles",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/pentacles_13_queen.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Королева Пентаклей",
+        "Queen of Pentacles",
+        "queen_of_pentacles",
+        "pentacles_13_queen.webp",
+        "pentacles_13_queen"
+      ],
+      "baseline_meaning": "Забота",
+      "classification_status": "author_approved_working_classification"
+    },
+    {
+      "id": "king_of_pentacles",
+      "deck_numeric_id": 79,
+      "name_ru": "Король Пентаклей",
+      "name_en": "King of Pentacles",
+      "file": "pentacles_14_king.webp",
+      "number": 14,
+      "suit": "pentacles",
+      "rws_counterpart": "King of Pentacles",
+      "category": "A",
+      "image_source": "https://raw.githubusercontent.com/marataitester-blip/tarot_new/98782476b60f30155f279a8b949188a270dbbb77/pentacles_14_king.webp",
+      "text_sources": [
+        "MARAT_2026_10_12",
+        "E",
+        "AURA"
+      ],
+      "aliases": [
+        "Король Пентаклей",
+        "King of Pentacles",
+        "king_of_pentacles",
+        "pentacles_14_king.webp",
+        "pentacles_14_king"
+      ],
+      "baseline_meaning": "Мастер Изобилия",
+      "classification_status": "author_approved_working_classification"
+    }
+  ],
+  "version": "1.0.0",
+  "status": "author_approved",
+  "approved_by": "Марат",
+  "approved_on": "2026-10-12"
+}
